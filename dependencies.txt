@@ -1,0 +1,10 @@
+
+@tweakpane/core
+
+@tweakpane/plugin-essentials
+
+three
+
+tweakpane
+
+@types/three
